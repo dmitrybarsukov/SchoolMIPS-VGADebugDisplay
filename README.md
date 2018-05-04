@@ -1,7 +1,7 @@
 # This is FPGA module for displaying contents of SchoolMIPS registers on 1280x1024 VGA display #
 
 
-### Connections: ###
+### Connections: VGAdebugScreen module ###
 
 * clk108mhz:  provide 108 MHz clock here  
 * regAddr:    connect to SchoolMIPS regAddr  
